@@ -1,6 +1,6 @@
 ## Activity
 
-- Create a train system with 3 subway lines.
+Create a train system with 3 subway lines.
   - Red Line 
   - Green Line 
   - Orange Line 
